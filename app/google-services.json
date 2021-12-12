@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325801596749",
+    "project_id": "listafilmes-trabalhon2",
+    "storage_bucket": "listafilmes-trabalhon2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325801596749:android:019de9d68893caa88c4904",
+        "android_client_info": {
+          "package_name": "br.cleberhomem.listafilmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325801596749-b319hv9o4mr1vh1t30msa0qdv6kspv53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJBuTLhj3bt2rRHMTVgfic6nQFF3jplmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325801596749-b319hv9o4mr1vh1t30msa0qdv6kspv53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

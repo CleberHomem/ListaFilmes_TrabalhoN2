@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListaFilmes</string>
+
+    <!--<string-array name="genero">
+        <item>Gênero do Filme...</item>
+        <item>Comédia</item>
+        <item>Drama</item>
+        <item>Épico</item>
+        <item>Suspense</item>
+        <item>Romance</item>
+        <item>Comédia Romântica</item>
+
+    </string-array>-->
+</resources>
